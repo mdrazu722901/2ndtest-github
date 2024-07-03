@@ -1,0 +1,18 @@
+h1{
+    background-color: red;
+    color: black;
+    margin: 0% 40%;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+h2{
+    background-color: black;
+    color: red;
+    margin: 0% 40%;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
